@@ -1,14 +1,14 @@
-# Test the program
+### Test the program
 ```
 $ stack test
 ```
 
-# Build the app
+### Build the app
 ```
 $ stack build
 ```
 
-# Run the app
+### Run the app
 ```
 $ stack exec printFiles "share/test.txt"
 ============ share/a.txt
@@ -34,7 +34,7 @@ Content of c.
 Characters = 39
 ```
 
-# install the app
+### install the app
 ```
 $ stack install
 ```
